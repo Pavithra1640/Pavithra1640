@@ -5,7 +5,7 @@
 <img align="right" a;t="coding" widhth="400" src="![image](https://github.com/Pavithra1640/grafana/assets/165140491/fb55894f-b2c8-46a6-98d4-47622d259b39)"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavithra1640&label=Profile%20views&color=0e75b6&style=flat" alt="pavithra1640" /> </p>
 
-- 🔭 I’m currently working on Devops engineer 
+- 🔭 I’m currently working on Devops engineer
 
 - 📝 I regularly write articles on [https://medium.com/@pavithra.kutagulla0416](https://medium.com/@pavithra.kutagulla0416)
 
