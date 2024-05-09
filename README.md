@@ -1,8 +1,8 @@
+![image](https://github.com/Pavithra1640/grafana/assets/165140491/c86fac6a-2d78-45d9-89d5-cc9cbbed3ae2)
 
 <h1 align="center">Hi 👋, I'm Kutagulla Pavithra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" a;t="coding" widhth="400" src="![image](https://github.com/Pavithra1640/grafana/assets/165140491/fb55894f-b2c8-46a6-98d4-47622d259b39)"
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavithra1640&label=Profile%20views&color=0e75b6&style=flat" alt="pavithra1640" /> </p>
 
 - 🔭 I’m currently working on Devops engineer
