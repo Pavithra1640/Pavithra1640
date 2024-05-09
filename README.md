@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Devops engineer
 
-- 📝 I regularly write articles on [https://medium.com/@pavithra.kutagulla0416](https://medium.com/@pavithra.kutagulla0416)
+- 📝 I write articles on [https://medium.com/@pavithra.kutagulla0416](https://medium.com/@pavithra.kutagulla0416)
 
 - 📫 How to reach me **pavithra.k1640@gmail.com**
 
