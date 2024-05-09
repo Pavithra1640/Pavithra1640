@@ -1,4 +1,4 @@
-![image](https://github.com/Pavithra1640/grafana/assets/165140491/6cba50d3-485d-4ee7-9e3b-674cadccd980)
+![image](https://github.com/Pavithra1640/grafana/assets/165140491/bd83ac12-0b09-42d6-a4a7-edf777851e07)
 <h1 align="center">Hi 👋, I'm Kutagulla Pavithra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
